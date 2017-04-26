@@ -2,12 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.des</groupId>
   <artifactId>PhysicsCalculatory</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>release</version>
   
   <scm>
   	<url>https://github.com/desaraju02/PhysicsCalculatory</url>
   	<connection>scm:git:https://github.com/desaraju02/PhysicsCalculatory.git</connection>
-    <tag>PhysicsCalculatory-0.0.1</tag>
+    <tag>PhysicsCalculatory-0.0.2</tag>
   </scm>
   
   
