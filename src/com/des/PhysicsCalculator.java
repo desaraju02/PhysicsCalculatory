@@ -2,6 +2,8 @@ package com.des;
 
 public class PhysicsCalculator {
 	
+	private String str;
+	
 	
 	public String getVelocityFormula()
 	{
