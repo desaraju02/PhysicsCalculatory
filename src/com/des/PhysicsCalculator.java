@@ -7,5 +7,10 @@ public class PhysicsCalculator {
 	{
 		return "Formula for velocity = d /t ";
 	}
+	
+	public String getTempInCelsius()
+	{
+		return "To Be Implemented Later";
+	}
 
 }
