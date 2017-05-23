@@ -7,13 +7,22 @@
   <scm>
   	<url>https://github.com/desaraju02/PhysicsCalculatory</url>
   	<connection>scm:git:https://github.com/desaraju02/PhysicsCalculatory.git</connection>
-    <tag>HEAD</tag>
+    
   </scm>
   
+  <!-- https://mvnrepository.com/artifact/junit/junit -->
+<dependencies>
+	<dependency>
+		<groupId>junit</groupId>
+		<artifactId>junit</artifactId>
+		<version>4.12</version>
+		<scope>test</scope>
+	</dependency>
+</dependencies>
   
   
   <build>
-    <sourceDirectory>src</sourceDirectory>
+      <sourceDirectory>src</sourceDirectory> 
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
