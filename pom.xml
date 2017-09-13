@@ -45,4 +45,11 @@
 	
     </plugins>
   </build>
+  
+  <distributionManagement>
+  <snapshotRepository>
+    <id>localnexustest</id>
+    <url>http://localhost:8081/nexus/content/repositories/localnexustest</url>
+  </snapshotRepository>
+</distributionManagement>
 </project>
