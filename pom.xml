@@ -49,7 +49,7 @@
   <distributionManagement>
   <snapshotRepository>
     <id>localnexustest</id>
-    <url>http://localhost:8081/nexus/content/repositories/localnexustest</url>
+    <url>http://localhost:8081/nexus/content/repositories/releases/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
