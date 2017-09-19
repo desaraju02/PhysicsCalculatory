@@ -12,5 +12,10 @@ public class PhysicsCalculator {
 	{
 		return "To Be Implemented Later";
 	}
+	
+	public String getFormula(String formulaFor)
+	{
+		return "Will be implemented later";
+	}
 
 }
